@@ -49,7 +49,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 2.  Go to the Server Folder
    ```sh
-   cd serve
+   cd server
    ```
 3.  Install the dependencies
    ```sh
